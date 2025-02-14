@@ -2,6 +2,7 @@
 A simple HTML and CSS project that creates a stunning aurora text effect using a gradient animation.
 
 Preview
+![image alt](https://github.com/bdnath702/Aurora-Text-Effect/blob/main/sublime%20screenshot.png?raw=true)
 Features
 
 Gradient animated text effect
@@ -18,7 +19,7 @@ Usage
 
 Clone this repository:
 
-git clone https://github.com/your-username/aurora-text-effect.git
+git clone https://github.com/bdnath702/aurora-text-effect.git
 
 Open index.html in your browser.
 
